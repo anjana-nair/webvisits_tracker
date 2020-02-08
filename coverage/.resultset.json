@@ -1,0 +1,34 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/anjana/development/rubydev/test_challenges/webvisits_tracker/spec/factories/page_view.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/anjana/development/rubydev/test_challenges/webvisits_tracker/spec/factories/visit.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1581093307
+  }
+}
